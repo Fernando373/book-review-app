@@ -166,3 +166,6 @@ Delete a review (only the owner can delete).
 - Run `npm install` to ensure all dependencies are installed
 - Check `tsconfig.json` configuration
 - Verify all imports are correct
+
+
+### 📹 LIVE DEMO Check out the live demo of the Book Review App [here](https://book-review-app-production-8898.up.railway.app/login).
